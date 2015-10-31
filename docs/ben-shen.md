@@ -2,3 +2,4 @@
  - [ ] Chicago
  - [ ] Pizza
  - [ ] Baseball
+ - [ ] Blue
